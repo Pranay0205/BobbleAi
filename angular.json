@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "BobbleSign"
+    }
+  },
+  "defaultProject": "BobbleSign",
+  "cli": {
+    "analytics": "cfc18804-fda9-4e75-8f23-62b2341fd726"
+  }
 }
